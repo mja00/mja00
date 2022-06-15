@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Artist</h1>
-<h3 align="center">A senior in college getting their BS in CS.</h3>
+<h3 align="center">An <strike>senior in college getting their</strike> adult with their BS in CS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mja00&label=Profile%20views&color=0e75b6&style=flat" alt="mja00" /> </p>
 
