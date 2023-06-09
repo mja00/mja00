@@ -9,11 +9,9 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mja00&show_icons=true&locale=en&layout=compact" alt="mja00" /></p>
 
-- 🔭 I’m currently working on [swarmsmp](https://github.com/mja00/swarmsmp)
+- 🔭 I’m currently working on multiple small projects.
 
 - 🌱 I’m currently learning **Web Frameworks, Java**
-
-- 👯 I’m looking to collaborate on [Glimesh](https://github.com/Glimesh/glimesh.tv)
 
 - 📫 How to reach me **me@mja00.dev**
 
